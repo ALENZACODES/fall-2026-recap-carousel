@@ -22,12 +22,16 @@ Gamma view link: added after publishing
 2. A card on what I learned
 3. A restyle of the whole carousel in navy and deep red on white
 
-## Files
-| File | What it is |
-| --- | --- |
-| gamma-prompt.md | The exact text pasted into Gamma's classic generator |
-| card-photo-map.md | Which photo goes on which card |
-| photos/ | Screenshots of my own live projects, taken Nov 12, 2026 |
-| sources.md | Where every number on the cards comes from |
+## Project structure
+
+```text
+fall-2026-recap-carousel/
+├── photos/            # Screenshots of my own live projects, taken Nov 12, 2026 (7 files)
+├── card-photo-map.md  # Which photo goes on which card
+├── cover.png          # Cover image
+├── gamma-prompt.md    # The exact text pasted into Gamma's classic generator
+├── README.md          # This file
+└── sources.md         # Where every number on the cards comes from
+```
 
 Built by John Khan, ALENZA CODES, Toronto, Ontario.
